@@ -4,10 +4,12 @@ import NavTabs from './components/Navtabs';
 import Home from './components/pages/Home';
 import Projects from './components/pages/Projects';
 import Contact from './components/pages/Contact';
-// import './App.css'
+import Footer from './components/Footer';
+import './App.css'
 
 function App() {
   return (
+    <>
     <Router>
       <NavTabs />
       <Routes>
@@ -16,6 +18,8 @@ function App() {
         <Route path="contact" element={<Contact />} />
       </Routes>
     </Router>
+    <Footer></Footer>
+    </>
   );
 }
 
