@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "CSS Portfolio",
+        "deployedSite": "https://c-woolrych.github.io/the-portfolio-for-C.W/",
+        "githubRepo": "https://github.com/c-woolrych/the-portfolio-for-C.W",
+        "image": "../assets/cssPortoflio"
+    },
+    {
+        "id": "2",
+        "name": "bootstrapPortfolio",
+        "deployedSite": "https://c-woolrych.github.io/Bootstrap-Portfolio/",
+        "githubRepo": "https://github.com/c-woolrych/Bootstrap-Portfolio",
+        "image": "../assets/bootstrapPortoflio"
+    },
+    {
+        "id": "3",
+        "name": "Console Finances",
+        "deployedSite": "https://c-woolrych.github.io/Console-Finances/",
+        "githubRepo": "https://github.com/c-woolrych/Console-Finances",
+        "image": "../assets/consoleFinances"
+    },
+    {
+        "id": "4",
+        "name": "Weather Dashboard",
+        "deployedSite": "https://c-woolrych.github.io/Weather-Checker/",
+        "githubRepo": "https://github.com/c-woolrych/Weather-Checker",
+        "image": "../assets/weatherDashboard"
+    },
+    {
+        "id": "5",
+        "name": "Film Review",
+        "deployedSite": "https://c-woolrych.github.io/Film-Review/",
+        "githubRepo": "https://github.com/c-woolrych/Film-Review",
+        "image": "../assets/filmReview"
+    },
+    {
+        "id": "6",
+        "name": "README Generator",
+        "screencastifyLink": "https://drive.google.com/file/d/1UZQAx6x06igha8c9DiGqvAUl5AnGeLvk/view",
+        "githubRepo": "https://github.com/c-woolrych/easyREADMEgenerator",
+        "image": "../assets/readmeGenerator"
+    },
+    {
+        "id": "7",
+        "name": "Team Profile Generator",
+        "githubRepo": "https://github.com/c-woolrych/Command-Line-Team-Profile-Generator",
+        "image": "../assets/teamProfile"
+    }
+]

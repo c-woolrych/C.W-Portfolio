@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 function Footer() {
   return (
     <>
-        <CardFooter className="fixed-bottom bg-dark">
+        <CardFooter className="bg-dark">
         <Card.Body >
         <Card.Title>Special title treatment</Card.Title>
         <Card.Text>
