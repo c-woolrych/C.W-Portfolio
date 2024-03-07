@@ -4,7 +4,7 @@
         "name": "CSS Portfolio",
         "deployedSite": "https://c-woolrych.github.io/the-portfolio-for-C.W/",
         "githubRepo": "https://github.com/c-woolrych/the-portfolio-for-C.W",
-        "image": "../assets/cssPortoflio"
+        "image": "../assets/cssPortfolio.png"
     },
     {
         "id": "2",
@@ -37,7 +37,7 @@
     {
         "id": "6",
         "name": "README Generator",
-        "screencastifyLink": "https://drive.google.com/file/d/1UZQAx6x06igha8c9DiGqvAUl5AnGeLvk/view",
+        "deployedSite": "https://drive.google.com/file/d/1UZQAx6x06igha8c9DiGqvAUl5AnGeLvk/view",
         "githubRepo": "https://github.com/c-woolrych/easyREADMEgenerator",
         "image": "../assets/readmeGenerator"
     },
