@@ -4,7 +4,7 @@
         "name": "CSS Portfolio",
         "deployedSite": "https://c-woolrych.github.io/the-portfolio-for-C.W/",
         "githubRepo": "https://github.com/c-woolrych/the-portfolio-for-C.W",
-        "imagePath": "cssPortfolio.png"
+        "image": "/cssPortfolio.png"
     },
     {
         "id": "2",

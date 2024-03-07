@@ -14,7 +14,7 @@ function Projects() {
           name={projectsObj.name}
           deployedSite={projectsObj.deployedSite}
           githubRepo={projectsObj.githubRepo}
-          image={projectsObj.imagePath}
+          image={projectsObj.image}
         />
       ))}
     </div>
