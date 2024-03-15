@@ -15,7 +15,7 @@ function Contact() {
     <Container style={containerStyle} >
     <Card  >
       <Card.Title >Contact Me</Card.Title>
-      <h2>c.woolrych@gmail.com</h2>
+      <Card.Text>c.woolrych@gmail.com</Card.Text>
       <Form>
       <Form.Group className="mb-3" controlId="formName">
         <Form.Control type="name" placeholder="Name" />
