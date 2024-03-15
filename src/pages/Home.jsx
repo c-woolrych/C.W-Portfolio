@@ -2,7 +2,7 @@ import React from 'react'
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
 import "bootstrap/dist/css/bootstrap.css";
-import portrait from '../../assets/portrait.jpg';
+import portrait from "../assets/portrait.jpg";
 import Image from 'react-bootstrap/Image';
 
 const cardStyle = {

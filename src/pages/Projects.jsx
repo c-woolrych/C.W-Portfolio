@@ -1,6 +1,6 @@
-import projects from '../projects.json';
+import projects from '../components/projects.json';
 import React, {useState} from 'react';
-import ProjectCard from '../projectCard';
+import ProjectCard from '../components/projectCard';
 
 function Projects() {
   const [projectsData] = useState(projects);

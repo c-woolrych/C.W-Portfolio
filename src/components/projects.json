@@ -4,47 +4,47 @@
         "name": "CSS Portfolio",
         "deployedSite": "https://c-woolrych.github.io/the-portfolio-for-C.W/",
         "githubRepo": "https://github.com/c-woolrych/the-portfolio-for-C.W",
-        "image": "/cssPortfolio.png"
+        "image": "/cssPortoflio.png"
     },
     {
         "id": "2",
         "name": "Bootstrap Portfolio",
         "deployedSite": "https://c-woolrych.github.io/Bootstrap-Portfolio/",
         "githubRepo": "https://github.com/c-woolrych/Bootstrap-Portfolio",
-        "image": "../assets/bootstrapPortoflio"
+        "image": "/bootstrapPorfolio.png"
     },
     {
         "id": "3",
         "name": "Console Finances",
         "deployedSite": "https://c-woolrych.github.io/Console-Finances/",
         "githubRepo": "https://github.com/c-woolrych/Console-Finances",
-        "image": "../assets/consoleFinances"
+        "image": "/consoleFinanaces.png"
     },
     {
         "id": "4",
         "name": "Weather Dashboard",
         "deployedSite": "https://c-woolrych.github.io/Weather-Checker/",
         "githubRepo": "https://github.com/c-woolrych/Weather-Checker",
-        "image": "../assets/weatherDashboard"
+        "image": "/weatherDashboard.png"
     },
     {
         "id": "5",
         "name": "Film Review",
         "deployedSite": "https://c-woolrych.github.io/Film-Review/",
         "githubRepo": "https://github.com/c-woolrych/Film-Review",
-        "image": "../assets/filmReview"
+        "image": "/filmReview.png"
     },
     {
         "id": "6",
         "name": "README Generator",
         "deployedSite": "https://drive.google.com/file/d/1UZQAx6x06igha8c9DiGqvAUl5AnGeLvk/view",
         "githubRepo": "https://github.com/c-woolrych/easyREADMEgenerator",
-        "image": "../assets/readmeGenerator"
+        "image": "/readmeGenerator.png"
     },
     {
         "id": "7",
         "name": "Team Profile Generator",
         "githubRepo": "https://github.com/c-woolrych/Command-Line-Team-Profile-Generator",
-        "image": "../assets/teamProfile"
+        "image": "/teamProfile.png"
     }
 ]

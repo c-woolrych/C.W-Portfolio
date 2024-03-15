@@ -8,13 +8,7 @@ import projects from './projects.json';
 function ProjectCard(props) {
     const [image, setImage] = useState(projects);
 
-    // useEffect(() => {
-    //     const importImage = async () => {
-    //         const img = await import(`../assets/${props.imagePath}`);
-    //         setImage(img.default);
-    //     };
-    //     importImage();
-    // }, [props.imagePath]);
+    console.log(props.image)
     return (
         <Container style={containerStyle} >
         <Card data-bs-theme="dark" style={cardStyle}>
@@ -22,8 +16,7 @@ function ProjectCard(props) {
                 <Card.Title>{props.name}</Card.Title>
                 <Card.Link href={props.deployedSite}>Deployed Site</Card.Link>
                 <Card.Link href={props.githubRepo}>GitHub Repository</Card.Link>
-                {/* {image && <Image src={image}/>} */}
-                <Image src={props.image} />
+                <Image style={imgStyle} src={props.image} />
             </Card.Body>
         </Card>
         </Container>
