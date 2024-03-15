@@ -1,0 +1,19 @@
+.footer-links {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 20px 0;
+  }
+  
+  .footer-links a {
+    font-size: 2rem;
+  }
+  
+  .footer-links a:hover {
+    color: #666;
+  }
+
+  .footer-copyright {
+    color: aliceblue;
+    margin-top: 20px;
+  }
